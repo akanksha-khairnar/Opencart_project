@@ -1,0 +1,26 @@
+13:08:08.081 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Maven Project\Opencart_project\crossparallelbrowsertesting.xml
+
+13:08:51.494 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message....
+12:11:50.163 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Maven Project\Opencart_project\master.xml
+
+12:12:00.991 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message....
+12:12:05.937 [main] INFO  testCases.TC002_LoginTest - *****starting the TC002_LoginTest*******
+15:06:35.723 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Maven Project\Opencart_project\master.xml
+
+15:06:40.621 [main] INFO  testCases.TC003_LoginDDT - *****Starting the TC003_LoginDDT*******
+15:06:42.554 [main] INFO  testCases.TC003_LoginDDT - *****Finished the TC003_LoginDDT*******
+15:06:42.577 [main] INFO  testCases.TC003_LoginDDT - *****Starting the TC003_LoginDDT*******
+15:06:44.449 [main] INFO  testCases.TC003_LoginDDT - *****Finished the TC003_LoginDDT*******
+15:06:44.453 [main] INFO  testCases.TC003_LoginDDT - *****Starting the TC003_LoginDDT*******
+15:06:46.210 [main] INFO  testCases.TC003_LoginDDT - *****Starting the TC003_LoginDDT*******
+15:06:57.215 [main] INFO  testCases.TC003_LoginDDT - *****Finished the TC003_LoginDDT*******
+15:06:57.219 [main] INFO  testCases.TC003_LoginDDT - *****Starting the TC003_LoginDDT*******
+15:06:59.110 [main] INFO  testCases.TC003_LoginDDT - *****Finished the TC003_LoginDDT*******
+15:41:57.516 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Maven Project\Opencart_project\grouping.xml
+
+15:42:03.340 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message....
+15:42:06.271 [main] INFO  testCases.TC002_LoginTest - *****starting the TC002_LoginTest*******
